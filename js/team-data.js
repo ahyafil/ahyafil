@@ -68,7 +68,7 @@ photo: "assets/people/babyalex.jpg",
     }
  },
  {
-     name: "Lucía Sánchez-",
+     name: "Lucía Sánchez",
      role: "master Student",
      photo: "",
      bio: "",
