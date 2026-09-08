@@ -11,7 +11,7 @@ const TEAM = [
     name: "Alex(andre) Hyafil",
     role: "Principal Investigator",
     photo: "assets/people/alexh.jpg",
-    bio: " email me at: alexandre.hyafil (at) gmail (dot) com",
+    bio: " Alex’ journey into neuroscience got him to wonder about very different neural systems (executive functions, speech perception, perceptual decision-making, etc.) from very different scales but with a common mantra: understanding the computations underlying cognition. After his PhD with Etienne Koechlin at Université Pierre et Marie Curie (Paris), he did various postdocs in Paris, Barcelona and Princeton. He started as a group leader in 2019 at the CRM. Alex teaches Neuro-AI, computational neuroscience and data analysis at the Brain & Cognition Masters (UPF). He’s also the proud co-founder of the <a href="https://www.bambschool.org">BAMB! </a> summer school, dedicated to teaching the beautiful intricacies of modelling behavioural data to young wizards. Email: alexandre.hyafil (at) gmail (dot) com",
    links: {
       website: "",
       github: "https://github.com/ahyafil/",
@@ -88,7 +88,7 @@ const ALUMNI = [
     name: "Lluís Hernández-Navarro",
     role: "postdoc, now lecturer at Universitat Politècnica de Catalunya",
         bio: "",
-    photo: "",
+    photo: "assets/people/lluis.png",
     links: {
       website: "https://futur.upc.edu/42805054",
       github: "",
