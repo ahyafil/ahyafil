@@ -1,0 +1,2198 @@
+[
+	{
+		"id": "http://zotero.org/users/166277/items/U5T3X9IM",
+		"type": "article-journal",
+		"abstract": "Since the late nineteenth century, cultural historians have noted that the importance of love increased during the Medieval and Early Modern European period (a phenomenon that was once referred to as the emergence of ‘courtly love’). However, more recent works have shown a similar increase in Chinese, Arabic, Persian, Indian and Japanese cultures. Why such a convergent evolution in very different cultures? Using qualitative and quantitative approaches, we leverage literary history and build a database of ancient literary fiction for 19 geographical areas and 77 historical periods covering 3,800 years, from the Middle Bronze Age to the Early Modern period. We first confirm that romantic elements have increased in Eurasian literary fiction over the past millennium, and that similar increases also occurred earlier, in Ancient Greece, Rome and Classical India. We then explore the ecological determinants of this increase. Consistent with hypotheses from cultural history and behavioural ecology, we show that a higher level of economic development is strongly associated with a greater incidence of love in narrative fiction (our proxy for the importance of love in a culture). To further test the causal role of economic development, we used a difference-in-difference method that exploits exogenous regional variations in economic development resulting from the adoption of the heavy plough in medieval Europe. Finally, we used probabilistic generative models to reconstruct the latent evolution of love and to assess the respective role of cultural diffusion and economic development.",
+		"container-title": "Nature Human Behaviour",
+		"DOI": "10.1038/s41562-022-01292-z",
+		"ISSN": "2397-3374",
+		"issue": "4",
+		"journalAbbreviation": "Nat Hum Behav",
+		"language": "en",
+		"license": "All rights reserved",
+		"page": "506-522",
+		"publisher": "Nature Publishing Group",
+		"source": "www.nature.com",
+		"title": "The cultural evolution of love in literary history",
+		"URL": "https://www.nature.com/articles/s41562-022-01292-z",
+		"volume": "6",
+		"author": [
+			{
+				"family": "Baumard",
+				"given": "Nicolas"
+			},
+			{
+				"family": "Huillery",
+				"given": "Elise"
+			},
+			{
+				"family": "Hyafil",
+				"given": "Alexandre"
+			},
+			{
+				"family": "Safra",
+				"given": "Lou"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					23
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					4
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/166277/items/LN57NS75",
+		"type": "article-journal",
+		"abstract": "Our immediate observations must be supplemented with contextual information to resolve ambiguities. However, the context is often ambiguous too, and thus it should be inferred itself to guide behavior. Here, we introduce a novel hierarchical task (airplane task) in which participants should infer a higher-level, contextual variable to inform probabilistic inference about a hidden dependent variable at a lower level. By controlling the reliability of past sensory evidence through varying the sample size of the observations, we find that humans estimate the reliability of the context and combine it with current sensory uncertainty to inform their confidence reports. Behavior closely follows inference by probabilistic message passing between latent variables across hierarchical state representations. Commonly reported inferential fallacies, such as sample size insensitivity, are not present, and neither did participants appear to rely on simple heuristics. Our results reveal uncertainty-sensitive integration of information at different hierarchical levels and temporal scales.",
+		"container-title": "Nature Communications",
+		"DOI": "10.1038/s41467-019-13472-z",
+		"ISSN": "2041-1723",
+		"issue": "1",
+		"journalAbbreviation": "Nat Commun",
+		"language": "en",
+		"license": "All rights reserved",
+		"page": "5430",
+		"publisher": "Nature Publishing Group",
+		"source": "www.nature.com",
+		"title": "Human confidence judgments reflect reliability-based hierarchical integration of contextual information",
+		"URL": "https://www.nature.com/articles/s41467-019-13472-z",
+		"volume": "10",
+		"author": [
+			{
+				"family": "Schustek",
+				"given": "Philipp"
+			},
+			{
+				"family": "Hyafil",
+				"given": "Alexandre"
+			},
+			{
+				"family": "Moreno-Bote",
+				"given": "Rubén"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					12,
+					2
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					28
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/166277/items/SD553SFF",
+		"type": "article-journal",
+		"abstract": "Making informed decisions in noisy environments requires integrating sensory information over time. However, recent work has suggested that it may be difficult to determine whether an animal’s decision-making strategy relies on evidence integration or not. In particular, strategies based on extrema-detection or random snapshots of the evidence stream may be difficult or even impossible to distinguish from classic evidence integration. Moreover, such non-integration strategies might be surprisingly common in experiments that aimed to study decisions based on integration. To determine whether temporal integration is central to perceptual decision-making, we developed a new model-based approach for comparing temporal integration against alternative ‘non-integration’ strategies for tasks in which the sensory signal is composed of discrete stimulus samples. We applied these methods to behavioral data from monkeys, rats, and humans performing a variety of sensory decision-making tasks. In all species and tasks, we found converging evidence in favor of temporal integration. First, in all observers across studies, the integration model better accounted for standard behavioral statistics such as psychometric curves and psychophysical kernels. Second, we found that sensory samples with large evidence do not contribute disproportionately to subject choices, as predicted by an extrema-detection strategy. Finally, we provide a direct confirmation of temporal integration by showing that the sum of both early and late evidence contributed to observer decisions. Overall, our results provide experimental evidence suggesting that temporal integration is an ubiquitous feature in mammalian perceptual decision-making. Our study also highlights the benefits of using experimental paradigms where the temporal stream of sensory evidence is controlled explicitly by the experimenter, and known precisely by the analyst, to characterize the temporal properties of the decision process.",
+		"container-title": "eLife",
+		"DOI": "10.7554/eLife.84045",
+		"ISSN": "2050-084X",
+		"license": "All rights reserved",
+		"page": "e84045",
+		"publisher": "eLife Sciences Publications, Ltd",
+		"source": "eLife",
+		"title": "Temporal integration is a robust feature of perceptual decisions",
+		"URL": "https://doi.org/10.7554/eLife.84045",
+		"volume": "12",
+		"author": [
+			{
+				"family": "Hyafil",
+				"given": "Alexandre"
+			},
+			{
+				"family": "Rocha",
+				"given": "Jaime",
+				"non-dropping-particle": "de la"
+			},
+			{
+				"family": "Pericas",
+				"given": "Cristina"
+			},
+			{
+				"family": "Katz",
+				"given": "Leor N"
+			},
+			{
+				"family": "Huk",
+				"given": "Alexander C"
+			},
+			{
+				"family": "Pillow",
+				"given": "Jonathan W"
+			}
+		],
+		"editor": [
+			{
+				"family": "Salinas",
+				"given": "Emilio"
+			},
+			{
+				"family": "Frank",
+				"given": "Michael J"
+			},
+			{
+				"family": "Salinas",
+				"given": "Emilio"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					12,
+					2
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					5,
+					4
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/166277/items/C2BCLTLL",
+		"type": "article-journal",
+		"container-title": "Behavior Research Methods",
+		"DOI": "10.3758/s13428-022-01793-9",
+		"ISSN": "1554-3528",
+		"issue": "1",
+		"journalAbbreviation": "Behav Res",
+		"language": "en",
+		"license": "All rights reserved",
+		"page": "58-76",
+		"source": "DOI.org (Crossref)",
+		"title": "A practical guide for studying human behavior in the lab",
+		"URL": "https://link.springer.com/10.3758/s13428-022-01793-9",
+		"volume": "55",
+		"author": [
+			{
+				"family": "Barbosa",
+				"given": "Joao"
+			},
+			{
+				"family": "Stein",
+				"given": "Heike"
+			},
+			{
+				"family": "Zorowitz",
+				"given": "Sam"
+			},
+			{
+				"family": "Niv",
+				"given": "Yael"
+			},
+			{
+				"family": "Summerfield",
+				"given": "Christopher"
+			},
+			{
+				"family": "Soto-Faraco",
+				"given": "Salvador"
+			},
+			{
+				"family": "Hyafil",
+				"given": "Alexandre"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					12,
+					2
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					3,
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/166277/items/T5FGL2CR",
+		"type": "article-journal",
+		"container-title": "Cognitive, Affective, & Behavioral Neuroscience",
+		"DOI": "10.3758/s13415-022-01038-4",
+		"ISSN": "1530-7026, 1531-135X",
+		"issue": "1",
+		"journalAbbreviation": "Cogn Affect Behav Neurosci",
+		"language": "en",
+		"license": "All rights reserved",
+		"page": "142-161",
+		"source": "DOI.org (Crossref)",
+		"title": "Mood and implicit confidence independently fluctuate at different time scales",
+		"URL": "https://link.springer.com/10.3758/s13415-022-01038-4",
+		"volume": "23",
+		"author": [
+			{
+				"family": "Da Fonseca",
+				"given": "María"
+			},
+			{
+				"family": "Maffei",
+				"given": "Giovanni"
+			},
+			{
+				"family": "Moreno-Bote",
+				"given": "Rubén"
+			},
+			{
+				"family": "Hyafil",
+				"given": "Alexandre"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					12,
+					2
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/166277/items/RS94TQEG",
+		"type": "article-journal",
+		"abstract": "Abstract\n            Standard models of perceptual decision-making postulate that a response is triggered in reaction to stimulus presentation when the accumulated stimulus evidence reaches a decision threshold. This framework excludes however the possibility that informed responses are generated proactively at a time independent of stimulus. Here, we find that, in a free reaction time auditory task in rats, reactive and proactive responses coexist, suggesting that choice selection and motor initiation, commonly viewed as serial processes, are decoupled in general. We capture this behavior by a novel model in which proactive and reactive responses are triggered whenever either of two competing processes, respectively Action Initiation or Evidence Accumulation, reaches a bound. In both types of response, the choice is ultimately informed by the Evidence Accumulation process. The Action Initiation process readily explains premature responses, contributes to urgency effects at long reaction times and mediates the slowing of the responses as animals get satiated and tired during sessions. Moreover, it successfully predicts reaction time distributions when the stimulus was either delayed, advanced or omitted. Overall, these results fundamentally extend standard models of evidence accumulation in decision making by showing that proactive and reactive processes compete for the generation of responses.",
+		"container-title": "Nature Communications",
+		"DOI": "10.1038/s41467-021-27302-8",
+		"ISSN": "2041-1723",
+		"issue": "1",
+		"journalAbbreviation": "Nat Commun",
+		"language": "en",
+		"license": "All rights reserved",
+		"page": "7148",
+		"source": "DOI.org (Crossref)",
+		"title": "Proactive and reactive accumulation-to-bound processes compete during perceptual decisions",
+		"URL": "https://www.nature.com/articles/s41467-021-27302-8",
+		"volume": "12",
+		"author": [
+			{
+				"family": "Hernández-Navarro",
+				"given": "Lluís"
+			},
+			{
+				"family": "Hermoso-Mendizabal",
+				"given": "Ainhoa"
+			},
+			{
+				"family": "Duque",
+				"given": "Daniel"
+			},
+			{
+				"family": "De La Rocha",
+				"given": "Jaime"
+			},
+			{
+				"family": "Hyafil",
+				"given": "Alexandre"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					12,
+					2
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					12,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/166277/items/T3CWJS5I",
+		"type": "article",
+		"abstract": "ABSTRACT\n          \n            Perceptual decisions are not only determined by current sensory information but are also influenced by expectations based on recent experiences. Can the impact of these expectations be flexibly modulated based on the outcome of previous decisions? We trained rats in several two-alternative forced choice auditory tasks, where the probability to repeat the previous stimulus category was varied in blocks of trials. All rats capitalized on the serial correlations of the stimulus sequence by consistently exploiting a\n            transition bias:\n            a tendency to repeat or alternate their previous response using an internal trial-by-trial estimate of the sequence repeating probability. Surprisingly, this bias was null in trials immediately following an error. The internal estimate however was not reset and it became effective again causing a bias after the next correct response. This ability to rapidly activate and inactivate the bias was captured by a non-linear generative model of rat behavior, whereby a reward-driven modulatory signal gated the use of the latent estimate of the environment statistics on the current decision. These results demonstrate that, based on the outcome of previous choices, rats flexibly modulate how expectations influence their current decisions.",
+		"DOI": "10.1101/433409",
+		"language": "en",
+		"license": "All rights reserved",
+		"publisher": "Neuroscience",
+		"source": "DOI.org (Crossref)",
+		"title": "Response outcomes gate the impact of expectations on perceptual decisions",
+		"URL": "http://biorxiv.org/lookup/doi/10.1101/433409",
+		"author": [
+			{
+				"family": "Hermoso-Mendizabal",
+				"given": "Ainhoa"
+			},
+			{
+				"family": "Hyafil",
+				"given": "Alexandre"
+			},
+			{
+				"family": "Rueda-Orozco",
+				"given": "Pavel E."
+			},
+			{
+				"family": "Jaramillo",
+				"given": "Santiago"
+			},
+			{
+				"family": "Robbe",
+				"given": "David"
+			},
+			{
+				"family": "De La Rocha",
+				"given": "Jaime"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					12,
+					2
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					10,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/166277/items/AWGPKLN6",
+		"type": "article-journal",
+		"abstract": "Many environmental stimuli present a quasi-rhythmic structure at different timescales that the brain needs to decompose and integrate. Cortical oscillations have been proposed as instruments of sensory de-multiplexing, i.e., the parallel processing of different frequency streams in sensory signals. Yet their causal role in such a process has never been demonstrated. Here, we used a neural microcircuit model to address whether coupled theta–gamma oscillations, as observed in human auditory cortex, could underpin the multiscale sensory analysis of speech. We show that, in continuous speech, theta oscillations can flexibly track the syllabic rhythm and temporally organize the phoneme-level response of gamma neurons into a code that enables syllable identification. The tracking of slow speech fluctuations by theta oscillations, and its coupling to gamma-spiking activity both appeared as critical features for accurate speech encoding. These results demonstrate that cortical oscillations can be a key instrument of speech de-multiplexing, parsing, and encoding.",
+		"container-title": "eLife",
+		"DOI": "10.7554/eLife.06213",
+		"ISSN": "2050-084X",
+		"license": "All rights reserved",
+		"page": "e06213",
+		"publisher": "eLife Sciences Publications, Ltd",
+		"source": "eLife",
+		"title": "Speech encoding by coupled cortical theta and gamma oscillations",
+		"URL": "https://doi.org/10.7554/eLife.06213",
+		"volume": "4",
+		"author": [
+			{
+				"family": "Hyafil",
+				"given": "Alexandre"
+			},
+			{
+				"family": "Fontolan",
+				"given": "Lorenzo"
+			},
+			{
+				"family": "Kabdebon",
+				"given": "Claire"
+			},
+			{
+				"family": "Gutkin",
+				"given": "Boris"
+			},
+			{
+				"family": "Giraud",
+				"given": "Anne-Lise"
+			}
+		],
+		"editor": [
+			{
+				"family": "Brownell",
+				"given": "Hiram"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					12,
+					2
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					5,
+					29
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/166277/items/ZBI6US8S",
+		"type": "paper-conference",
+		"abstract": "Syllables are considered as basic supra-segmental units, used mainly in prosodic modelling. It has long been thought that efﬁcient syllabiﬁcation algorithms may also provide valuable cues for improved segmental (acoustic) modelling. However, the best current syllabiﬁcation methods work ofﬂine, considering the power envelope of whole utterance.",
+		"container-title": "Interspeech 2015",
+		"DOI": "10.21437/Interspeech.2015-231",
+		"event-title": "Interspeech 2015",
+		"language": "en",
+		"license": "All rights reserved",
+		"page": "1191-1195",
+		"publisher": "ISCA",
+		"source": "DOI.org (Crossref)",
+		"title": "Neuromorphic based oscillatory device for incremental syllable boundary detection",
+		"URL": "https://www.isca-archive.org/interspeech_2015/hyafil15_interspeech.html",
+		"author": [
+			{
+				"family": "Hyafil",
+				"given": "Alexandre"
+			},
+			{
+				"family": "Cernak",
+				"given": "Milos"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					12,
+					2
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					9,
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/166277/items/3Q8ALM2N",
+		"type": "article-journal",
+		"abstract": "Possible options in a decision often organize as a hierarchy of subdecisions. A recent study concluded that perceptual processes in primates mimic this hierarchical structure and perform subdecisions in parallel. We argue that a flat model that directly selects between final choices accounts more parsimoniously for the reported behavioral and neural data. Critically, a flat model is characterized by decision signals integrating evidence at different hierarchical levels, in agreement with neural recordings showing this integration in localized neural populations. Our results point to the role of experience for building integrated perceptual categories where sensory evidence is merged prior to decision.",
+		"container-title": "eLife",
+		"DOI": "10.7554/eLife.16650",
+		"ISSN": "2050-084X",
+		"license": "All rights reserved",
+		"page": "e16650",
+		"publisher": "eLife Sciences Publications, Ltd",
+		"source": "eLife",
+		"title": "Breaking down hierarchies of decision-making in primates",
+		"URL": "https://doi.org/10.7554/eLife.16650",
+		"volume": "6",
+		"author": [
+			{
+				"family": "Hyafil",
+				"given": "Alexandre"
+			},
+			{
+				"family": "Moreno-Bote",
+				"given": "Rubén"
+			}
+		],
+		"editor": [
+			{
+				"family": "Gold",
+				"given": "Joshua I"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					12,
+					2
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					6,
+					26
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/166277/items/DNZF9V8F",
+		"type": "article-journal",
+		"abstract": "Acting in the natural world requires not only deciding among multiple options but also converting decisions into motor commands. How the dynamics of decision formation influence the fine kinematics of response movement remains, however, poorly understood. Here we investigate how the accumulation of decision evidence shapes the response orienting trajectories in a task where freely-moving rats combine prior expectations and auditory information to select between two possible options. Response trajectories and their motor vigor are initially determined by the prior. Rats movements then incorporate sensory information in less than 100 ms after stimulus onset by accelerating or slowing depending on how much the stimulus supports their initial choice. When the stimulus evidence is in strong contradiction, rats change their mind and reverse their initial trajectory. Human subjects performing an equivalent task display a remarkably similar behavior. We encapsulate these results in a computational model that maps the decision variable onto the movement kinematics at discrete time points, capturing subjects’ choices, trajectories and changes of mind. Our results show that motor responses are not ballistic. Instead, they are systematically and rapidly updated, as they smoothly unfold over time, by the parallel dynamics of the underlying decision process.",
+		"container-title": "Nature Communications",
+		"DOI": "10.1038/s41467-024-53586-7",
+		"ISSN": "2041-1723",
+		"issue": "1",
+		"journalAbbreviation": "Nat Commun",
+		"language": "en",
+		"license": "All rights reserved",
+		"page": "10583",
+		"publisher": "Nature Publishing Group",
+		"source": "www.nature.com",
+		"title": "Rapid, systematic updating of movement by accumulated decision evidence",
+		"URL": "https://www.nature.com/articles/s41467-024-53586-7",
+		"volume": "15",
+		"author": [
+			{
+				"family": "Molano-Mazón",
+				"given": "Manuel"
+			},
+			{
+				"family": "Garcia-Duran",
+				"given": "Alexandre"
+			},
+			{
+				"family": "Pastor-Ciurana",
+				"given": "Jordi"
+			},
+			{
+				"family": "Hernández-Navarro",
+				"given": "Lluís"
+			},
+			{
+				"family": "Bektic",
+				"given": "Lejla"
+			},
+			{
+				"family": "Lombardo",
+				"given": "Debora"
+			},
+			{
+				"family": "Rocha",
+				"given": "Jaime",
+				"non-dropping-particle": "de la"
+			},
+			{
+				"family": "Hyafil",
+				"given": "Alexandre"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					12,
+					2
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2024",
+					12,
+					4
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/166277/items/ACHDV7H7",
+		"type": "article-journal",
+		"abstract": "Measuring the cognitive and neural sequelae of switching between tasks permits a window into the flexible functioning of the executive control system. Prolonged reaction times (RTs) after task switches are accompanied by increases in brain activity in the anterior cingulate cortex (ACC) and dorsolateral prefrontal cortex (dlPFC), but the contribution made by these regions to task level control remains controversial. Here, subjects performed a hybrid spatial Stroop/task-switching paradigm, requiring them to respond with a joystick movement to congruent or incongruent spatial/verbal cues. Relative to the previous trial, the active task either switched or remained the same. Calculating switch costs as a function of current and previous trial congruency, we observed both a general RT increase on every switch trial, and additional slowing and impairment to performance when the switch occurred on the second of two successive incongruent trials (iI trials). Imaging data revealed corresponding neural concomitants of these two switch costs: the ACC was activated by task switches regardless of trial type (including congruent trials in which task-relevant and task-irrelevant information did not clash), whereas the caudal dlPFC exhibited a switch cost that was unique to iI trials. We argue that the ACC configures the priorities associated with a new task, whereas the dlPFC tackles interference from recently active, rivalrous task sets. These data contribute to a literature arguing that human cognitive flexibility benefits from the setting of new priorities for future action as well as the overcoming of interference from previously active task sets.",
+		"container-title": "Journal of Neuroscience",
+		"DOI": "10.1523/JNEUROSCI.2828-08.2009",
+		"ISSN": "0270-6474, 1529-2401",
+		"issue": "16",
+		"journalAbbreviation": "J. Neurosci.",
+		"language": "en",
+		"license": "All rights reserved",
+		"page": "5135-5142",
+		"PMID": "19386909",
+		"publisher": "Society for Neuroscience",
+		"section": "Articles",
+		"source": "www.jneurosci.org",
+		"title": "Two Mechanisms for Task Switching in the Prefrontal Cortex",
+		"URL": "https://www.jneurosci.org/content/29/16/5135",
+		"volume": "29",
+		"author": [
+			{
+				"family": "Hyafil",
+				"given": "Alexandre"
+			},
+			{
+				"family": "Summerfield",
+				"given": "Christopher"
+			},
+			{
+				"family": "Koechlin",
+				"given": "Etienne"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					2,
+					25
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2009",
+					4,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/166277/items/PWH8DF94",
+		"type": "article-journal",
+		"container-title": "European Journal of Psychological Assessment",
+		"DOI": "10.1027/1015-5759/a000940",
+		"ISSN": "1015-5759",
+		"license": "All rights reserved",
+		"publisher": "Hogrefe Publishing",
+		"source": "econtent.hogrefe.com (Atypon)",
+		"title": "Computational Modeling of Behavior as a Window on Psychological Traits and States",
+		"URL": "https://econtent.hogrefe.com/doi/abs/10.1027/1015-5759/a000940",
+		"author": [
+			{
+				"family": "Fonseca",
+				"given": "María",
+				"non-dropping-particle": "da"
+			},
+			{
+				"family": "Hyafil",
+				"given": "Alexandre"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					3,
+					4
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2026",
+					3,
+					4
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/166277/items/LRVFKLMK",
+		"type": "article-journal",
+		"abstract": "The frontopolar cortex (FPC), the most anterior part of the frontal lobes, forms the apex of the executive system underlying decision-making. Here, we review empirical evidence showing that the FPC function enables contingent interposition of two concurrent behavioral plans or mental tasks according to respective reward expectations, overcoming the serial constraint that bears upon the control of task execution in the prefrontal cortex. This function is mechanistically explained by interactions between FPC and neighboring prefrontal regions. However, its capacity appears highly limited, which suggests that the FPC is efficient for protecting the execution of long-term mental plans from immediate environmental demands and for generating new, possibly more rewarding, behavioral or cognitive sequences, rather than for complex decision-making and reasoning.",
+		"container-title": "Science",
+		"DOI": "10.1126/science.1142995",
+		"ISSN": "0036-8075, 1095-9203",
+		"issue": "5850",
+		"journalAbbreviation": "Science",
+		"language": "en",
+		"license": "All rights reserved",
+		"page": "594-598",
+		"source": "DOI.org (Crossref)",
+		"title": "Anterior Prefrontal Function and the Limits of Human Decision-Making",
+		"URL": "https://www.science.org/doi/10.1126/science.1142995",
+		"volume": "318",
+		"author": [
+			{
+				"family": "Koechlin",
+				"given": "Etienne"
+			},
+			{
+				"family": "Hyafil",
+				"given": "Alexandre"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					9,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2007",
+					10,
+					26
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/166277/items/WSY37BUR",
+		"type": "article-journal",
+		"container-title": "Trends in Neurosciences",
+		"DOI": "10.1016/j.tins.2015.09.001",
+		"ISSN": "01662236",
+		"issue": "11",
+		"journalAbbreviation": "Trends in Neurosciences",
+		"language": "en",
+		"license": "All rights reserved",
+		"page": "725-740",
+		"source": "DOI.org (Crossref)",
+		"title": "Neural Cross-Frequency Coupling: Connecting Architectures, Mechanisms, and Functions",
+		"title-short": "Neural Cross-Frequency Coupling",
+		"URL": "https://linkinghub.elsevier.com/retrieve/pii/S0166223615002088",
+		"volume": "38",
+		"author": [
+			{
+				"family": "Hyafil",
+				"given": "Alexandre"
+			},
+			{
+				"family": "Giraud",
+				"given": "Anne-Lise"
+			},
+			{
+				"family": "Fontolan",
+				"given": "Lorenzo"
+			},
+			{
+				"family": "Gutkin",
+				"given": "Boris"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					9,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/166277/items/4Q4M6FT8",
+		"type": "article-journal",
+		"abstract": "Background: Between roughly 500 BCE and 300 BCE, three distinct regions, the Yangtze and Yellow River Valleys, the Eastern Mediterranean, and the Ganges Valley, saw the emergence of highly similar religious traditions with an unprecedented emphasis on self-discipline and asceticism and with ‘‘otherworldly,’’ often moralizing, doctrines, including Buddhism, Jainism, Brahmanism, Daoism, Second Temple Judaism, and Stoicism, with later offshoots, such as Christianity, Manichaeism, and Islam. This cultural convergence, often called the ‘‘Axial Age,’’ presents a puzzle: why did this emerge at the same time as distinct moralizing religions, with highly similar features in different civilizations? The puzzle may be solved by quantitative historical evidence that demonstrates an exceptional uptake in energy capture (a proxy for general prosperity) just before the Axial Age in these three regions.\nResults: Statistical modeling conﬁrms that economic development, not political complexity or population size, accounts for the timing of the Axial Age.\nConclusions: We discussed several possible causal pathways, including the development of literacy and urban life, and put forward the idea, inspired by life history theory, that absolute afﬂuence would have impacted human motivation and reward systems, nudging people away from short-term strategies (resource acquisition and coercive interactions) and promoting long-term strategies (self-control techniques and cooperative interactions).",
+		"container-title": "Current Biology",
+		"DOI": "10.1016/j.cub.2014.10.063",
+		"ISSN": "09609822",
+		"issue": "1",
+		"journalAbbreviation": "Current Biology",
+		"language": "en",
+		"license": "All rights reserved",
+		"page": "10-15",
+		"source": "DOI.org (Crossref)",
+		"title": "Increased Affluence Explains the Emergence of Ascetic Wisdoms and Moralizing Religions",
+		"URL": "https://linkinghub.elsevier.com/retrieve/pii/S0960982214013724",
+		"volume": "25",
+		"author": [
+			{
+				"family": "Baumard",
+				"given": "Nicolas"
+			},
+			{
+				"family": "Hyafil",
+				"given": "Alexandre"
+			},
+			{
+				"family": "Morris",
+				"given": "Ian"
+			},
+			{
+				"family": "Boyer",
+				"given": "Pascal"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					9,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/166277/items/JQ27GGMC",
+		"type": "article-journal",
+		"abstract": "Objective: The late 2019 COVID-19 outbreak has put the health systems of many countries to the limit of their capacity. The most affected European countries are, so far, Italy and Spain. In both countries (and others), the authorities decreed a lockdown, with local speciﬁcities. The objective of this work is to evaluate the impact of the measures undertaken in Spain to deal with the pandemic.\nMethod: We estimated the number of cases and the impact of lockdown on the reproducibility number based on the hospitalization reports up to April 15th 2020.\nResults: The estimated number of cases shows a sharp increase until the lockdown, followed by a slowing down and then a decrease after full quarantine was implemented. Differences in the basic reproduction ratio are also signiﬁcant, dropping from 5.89 (95% conﬁdence interval [95%CI]: 5.46-7.09) before the lockdown to 0.48 (95%CI: 0.15-1.17) afterwards.\nConclusions: Handling a pandemic like COVID-19 is complex and requires quick decision making. The large differences found in the speed of propagation of the disease show us that being able to implement interventions at the earliest stage is crucial to minimise the impact of a potential infectious threat. Our work also stresses the importance of reliable up to date epidemiological data in order to accurately assess the impact of Public Health policies on viral outbreak.",
+		"container-title": "Gaceta Sanitaria",
+		"DOI": "10.1016/j.gaceta.2020.05.003",
+		"ISSN": "02139111",
+		"issue": "5",
+		"journalAbbreviation": "Gaceta Sanitaria",
+		"language": "en",
+		"license": "All rights reserved",
+		"page": "453-458",
+		"source": "DOI.org (Crossref)",
+		"title": "Analysis of the impact of lockdown on the reproduction number of the SARS-Cov-2 in Spain",
+		"URL": "https://linkinghub.elsevier.com/retrieve/pii/S0213911120300984",
+		"volume": "35",
+		"author": [
+			{
+				"family": "Hyafil",
+				"given": "Alexandre"
+			},
+			{
+				"family": "Moriña",
+				"given": "David"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					9,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/166277/items/M5SZ2ZLD",
+		"type": "article-journal",
+		"abstract": "Cross-frequency coupling (CFC) between neural oscillations has received increased attention over the last decade, as it is believed to underlie a number of cognitive operations in different brain systems. Coupling can take different forms as it associates the phase, frequency, and/or amplitude of coupled oscillations. These speciﬁc forms of coupling are a signature for the underlying network physiology and probably relate to distinct cognitive functions. Here I discuss three caveats in data analysis that can lead to mistake one speciﬁc form of CFC for another: (1) bicoherence assesses the level of phase-amplitude and not of phase-phase coupling (PPC) as commonly accepted; (2) a test for phase-amplitude coupling (PAC) can indeed signal phase-frequency coupling (PFC) when the higher frequency signal is extracted using a too narrow band; (3) an oscillation whose frequency ﬂuctuates may induce spurious amplitude anticorrelations between neighboring frequency bands. I indicate practical rules to avoid such misidentiﬁcations and correctly identify the speciﬁc nature of cross-frequency coupled signals.",
+		"container-title": "Frontiers in Neuroscience",
+		"DOI": "10.3389/fnins.2015.00370",
+		"ISSN": "1662-453X",
+		"journalAbbreviation": "Front. Neurosci.",
+		"language": "en",
+		"license": "All rights reserved",
+		"source": "DOI.org (Crossref)",
+		"title": "Misidentifications of specific forms of cross-frequency coupling: three warnings",
+		"title-short": "Misidentifications of specific forms of cross-frequency coupling",
+		"URL": "http://journal.frontiersin.org/Article/10.3389/fnins.2015.00370/abstract",
+		"volume": "9",
+		"author": [
+			{
+				"family": "Hyafil",
+				"given": "Alexandre"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					9,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					10,
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/166277/items/K4JTTRB9",
+		"type": "article-journal",
+		"container-title": "Communicative & Integrative Biology",
+		"DOI": "10.1080/19420889.2015.1046657",
+		"ISSN": "1942-0889",
+		"issue": "5",
+		"journalAbbreviation": "Communicative & Integrative Biology",
+		"language": "en",
+		"license": "All rights reserved",
+		"page": "e1046657",
+		"source": "DOI.org (Crossref)",
+		"title": "What changed during the axial age: Cognitive styles or reward systems?",
+		"title-short": "What changed during the axial age",
+		"URL": "https://www.tandfonline.com/doi/full/10.1080/19420889.2015.1046657",
+		"volume": "8",
+		"author": [
+			{
+				"family": "Baumard",
+				"given": "Nicolas"
+			},
+			{
+				"family": "Hyafil",
+				"given": "Alexandre"
+			},
+			{
+				"family": "Boyer",
+				"given": "Pascal"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					9,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					9,
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/166277/items/GFHIX4W5",
+		"type": "article-journal",
+		"container-title": "Trends in Cognitive Sciences",
+		"DOI": "10.1016/j.tics.2021.03.018",
+		"ISSN": "13646613",
+		"issue": "7",
+		"journalAbbreviation": "Trends in Cognitive Sciences",
+		"language": "en",
+		"license": "All rights reserved",
+		"page": "535-538",
+		"source": "DOI.org (Crossref)",
+		"title": "Neuromatch Academy: Teaching Computational Neuroscience with Global Accessibility",
+		"title-short": "Neuromatch Academy",
+		"URL": "https://linkinghub.elsevier.com/retrieve/pii/S1364661321000954",
+		"volume": "25",
+		"author": [
+			{
+				"family": "Van Viegen",
+				"given": "Tara"
+			},
+			{
+				"family": "Akrami",
+				"given": "Athena"
+			},
+			{
+				"family": "Bonnen",
+				"given": "Kathryn"
+			},
+			{
+				"family": "DeWitt",
+				"given": "Eric"
+			},
+			{
+				"family": "Hyafil",
+				"given": "Alexandre"
+			},
+			{
+				"family": "Ledmyr",
+				"given": "Helena"
+			},
+			{
+				"family": "Lindsay",
+				"given": "Grace W."
+			},
+			{
+				"family": "Mineault",
+				"given": "Patrick"
+			},
+			{
+				"family": "Murray",
+				"given": "John D."
+			},
+			{
+				"family": "Pitkow",
+				"given": "Xaq"
+			},
+			{
+				"family": "Puce",
+				"given": "Aina"
+			},
+			{
+				"family": "Sedigh-Sarvestani",
+				"given": "Madineh"
+			},
+			{
+				"family": "Stringer",
+				"given": "Carsen"
+			},
+			{
+				"family": "Achakulvisut",
+				"given": "Titipat"
+			},
+			{
+				"family": "Alikarami",
+				"given": "Elnaz"
+			},
+			{
+				"family": "Atay",
+				"given": "Melvin Selim"
+			},
+			{
+				"family": "Batty",
+				"given": "Eleanor"
+			},
+			{
+				"family": "Erlich",
+				"given": "Jeffrey C."
+			},
+			{
+				"family": "Galbraith",
+				"given": "Byron V."
+			},
+			{
+				"family": "Guo",
+				"given": "Yueqi"
+			},
+			{
+				"family": "Juavinett",
+				"given": "Ashley L."
+			},
+			{
+				"family": "Krause",
+				"given": "Matthew R."
+			},
+			{
+				"family": "Li",
+				"given": "Songting"
+			},
+			{
+				"family": "Pachitariu",
+				"given": "Marius"
+			},
+			{
+				"family": "Straley",
+				"given": "Elizabeth"
+			},
+			{
+				"family": "Valeriani",
+				"given": "Davide"
+			},
+			{
+				"family": "Vaughan",
+				"given": "Emma"
+			},
+			{
+				"family": "Vaziri-Pashkam",
+				"given": "Maryam"
+			},
+			{
+				"family": "Waskom",
+				"given": "Michael L."
+			},
+			{
+				"family": "Blohm",
+				"given": "Gunnar"
+			},
+			{
+				"family": "Kording",
+				"given": "Konrad"
+			},
+			{
+				"family": "Schrater",
+				"given": "Paul"
+			},
+			{
+				"family": "Wyble",
+				"given": "Brad"
+			},
+			{
+				"family": "Escola",
+				"given": "Sean"
+			},
+			{
+				"family": "Peters",
+				"given": "Megan A.K."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					9,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/166277/items/3EMI6ILD",
+		"type": "article-journal",
+		"abstract": "Speech coding is a field in which compression paradigms have not changed in the last 30 years. Speech signals are most commonly encoded with compression methods that have roots in linear predictive theory dating back to the early 1940s. This article bridges this influential theory with recent cognitive studies applicable in speech communication engineering. It reviews the mechanisms of speech perception that have led to perceptual speech coding. The focus is on human speech communication and machine learning and the application of cognitive speech processing in speech compression that presents a paradigm shift from perceptual (auditory) speech processing toward cognitive (auditory plus cortical) speech processing.",
+		"container-title": "IEEE Signal Processing Magazine",
+		"DOI": "10.1109/MSP.2017.2761895",
+		"ISSN": "1558-0792",
+		"issue": "3",
+		"license": "All rights reserved",
+		"page": "97-109",
+		"source": "IEEE Xplore",
+		"title": "Cognitive Speech Coding: Examining the Impact of Cognitive Speech Processing on Speech Compression",
+		"title-short": "Cognitive Speech Coding",
+		"URL": "https://ieeexplore.ieee.org/abstract/document/8350353",
+		"volume": "35",
+		"author": [
+			{
+				"family": "Cernak",
+				"given": "Milos"
+			},
+			{
+				"family": "Asaei",
+				"given": "Afsaneh"
+			},
+			{
+				"family": "Hyafil",
+				"given": "Alexandre"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					9,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					5
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/166277/items/9JZW3TMH",
+		"type": "article-journal",
+		"abstract": "In this paper, we study the dynamics of a quadratic integrate-and-fire neuron, spiking in the gamma (30–100 Hz) range, coupled to a delta/theta frequency (1–8 Hz) neural oscillator. Using analytical and semianalytical methods, we were able to derive characteristic spiking times for the system in two distinct regimes (depending on parameter values): one regime where the gamma neuron is intrinsically oscillating in the absence of theta input, and a second one in which gamma spiking is directly gated by theta input, i.e., windows of gamma activity alternate with silence periods depending on the underlying theta phase. In the former case, we transform the equations such that the system becomes analogous to the Mathieu differential equation. By solving this equation, we can compute numerically the time to the first gamma spike, and then use singular perturbation theory to find successive spike times. On the other hand, in the excitable condition, we make direct use of singular perturbation theory to obtain an approximation of the time to first gamma spike, and then extend the result to calculate ensuing gamma spikes in a recursive fashion. We thereby give explicit formulas for the onset and offset of gamma spike burst during a theta cycle, and provide an estimation of the total number of spikes per theta cycle both for excitable and oscillator regimes.",
+		"container-title": "The Journal of Mathematical Neuroscience",
+		"DOI": "10.1186/2190-8567-3-16",
+		"ISSN": "2190-8567",
+		"issue": "1",
+		"journalAbbreviation": "J. Math. Neurosc.",
+		"language": "en",
+		"license": "All rights reserved",
+		"page": "16",
+		"source": "Springer Link",
+		"title": "Analytical Insights on Theta-Gamma Coupled Neural Oscillators",
+		"URL": "https://doi.org/10.1186/2190-8567-3-16",
+		"volume": "3",
+		"author": [
+			{
+				"family": "Fontolan",
+				"given": "Lorenzo"
+			},
+			{
+				"family": "Krupa",
+				"given": "Maciej"
+			},
+			{
+				"family": "Hyafil",
+				"given": "Alexandre"
+			},
+			{
+				"family": "Gutkin",
+				"given": "Boris"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					9,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					8,
+					14
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/166277/items/NSG9TGFJ",
+		"type": "article-journal",
+		"abstract": "A central question in behavioral and social sciences is understanding to what extent cultural traits are inherited from previous generations, transmitted from adjacent populations or produced in response to changes in socioeconomic and ecological conditions. As quantitative diachronic databases recording the evolution of cultural artifacts over many generations are becoming more common, there is a need for appropriate data-driven methods to approach this question. Here we present a new Bayesian method to infer the dynamics of cultural traits in a diachronic dataset. Our method called Evoked-Transmitted Cultural model (ETC) relies on fitting a latent-state model where a cultural trait is a latent variable which guides the production of the cultural artifacts observed in the database. The dynamics of this cultural trait may depend on the value of the cultural traits present in previous generations and in adjacent populations (transmitted culture) and/or on ecological factors (evoked culture). We show how ETC models can be fitted to quantitative diachronic or synchronic datasets, using the Expectation-Maximization algorithm, enabling estimating the relative contribution of vertical transmission, horizontal transmission and evoked component in shaping cultural traits. The method also allows to reconstruct the dynamics of cultural traits in different regions. We tested the performance of the method on synthetic data for two variants of the method (for binary or continuous traits). We found that both variants allow reliable estimates of parameters guiding cultural evolution, and that they outperform purely phylogenetic tools that ignore horizontal transmission and ecological factors. Overall, our method opens new possibilities to reconstruct how culture is shaped from quantitative data, with possible application in cultural history, cultural anthropology, archaeology, historical linguistics and behavioral ecology.",
+		"container-title": "PLOS ONE",
+		"DOI": "10.1371/journal.pone.0264509",
+		"ISSN": "1932-6203",
+		"issue": "4",
+		"journalAbbreviation": "PLOS ONE",
+		"language": "en",
+		"license": "All rights reserved",
+		"page": "e0264509",
+		"publisher": "Public Library of Science",
+		"source": "PLoS Journals",
+		"title": "Evoked and transmitted culture models: Using bayesian methods to infer the evolution of cultural traits in history",
+		"title-short": "Evoked and transmitted culture models",
+		"URL": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0264509",
+		"volume": "17",
+		"author": [
+			{
+				"family": "Hyafil",
+				"given": "Alexandre"
+			},
+			{
+				"family": "Baumard",
+				"given": "Nicolas"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					9,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					4,
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/166277/items/VRZ37PQJ",
+		"type": "article-journal",
+		"abstract": "Cross-frequency phase coupling (PPC) may play an important role in neural processing and cognition. However, a new study unveils a statistical bias in how PPC is detected in neural recordings, questions prior evidence for PPC in hippocampus, and shows PPC tests are dramatically flawed by their confounds with oscillation harmonics.",
+		"container-title": "Journal of Neurophysiology",
+		"DOI": "10.1152/jn.00026.2017",
+		"ISSN": "0022-3077, 1522-1598",
+		"issue": "1",
+		"journalAbbreviation": "Journal of Neurophysiology",
+		"language": "en",
+		"license": "All rights reserved",
+		"page": "1-3",
+		"source": "DOI.org (Crossref)",
+		"title": "Disharmony in neural oscillations",
+		"URL": "https://www.physiology.org/doi/10.1152/jn.00026.2017",
+		"volume": "118",
+		"author": [
+			{
+				"family": "Hyafil",
+				"given": "Alexandre"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					9,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					7,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/166277/items/R3G82U57",
+		"type": "article-journal",
+		"abstract": "The ability of an organism to voluntarily control the stimuli onset modulates perceptual and attentional functions. Since stimulus encoding is an essential component of working memory (WM), we conjectured that controlling the initiation of the perceptual process would positively modulate WM. To corroborate this proposition, we tested twenty-ﬁve healthy subjects in a modiﬁed-Sternberg WM task under three stimuli presentation conditions: an automatic presentation of the stimuli, a self-initiated presentation of the stimuli (through a button press), and a self-initiated presentation with random-delay stimuli onset. Concurrently, we recorded the subjects' electroencephalographic signals during WM encoding. We found that the self-initiated condition was associated with better WM accuracy, and earlier latencies of N1, P2 and P3 evoked potential components representing visual, attentional and mental review of the stimuli processes, respectively. Our work demonstrates that self-initiated stimuli enhance WM performance and accelerate early visual and attentional processes deployed during WM encoding. We also found that self-initiated stimuli correlate with an increased attentional state compared to the other two conditions, suggesting a role for temporal stimuli predictability. Our study remarks on the relevance of selfcontrol of the stimuli onset in sensory, attentional and memory updating processing for WM.",
+		"container-title": "Heliyon",
+		"DOI": "10.1016/j.heliyon.2022.e12215",
+		"ISSN": "24058440",
+		"issue": "12",
+		"journalAbbreviation": "Heliyon",
+		"language": "en",
+		"license": "All rights reserved",
+		"page": "e12215",
+		"source": "DOI.org (Crossref)",
+		"title": "Voluntary self-initiation of the stimuli onset improves working memory and accelerates visual and attentional processing",
+		"URL": "https://linkinghub.elsevier.com/retrieve/pii/S2405844022035034",
+		"volume": "8",
+		"author": [
+			{
+				"family": "Loyola-Navarro",
+				"given": "Rocio"
+			},
+			{
+				"family": "Moënne-Loccoz",
+				"given": "Cristóbal"
+			},
+			{
+				"family": "Vergara",
+				"given": "Rodrigo C."
+			},
+			{
+				"family": "Hyafil",
+				"given": "Alexandre"
+			},
+			{
+				"family": "Aboitiz",
+				"given": "Francisco"
+			},
+			{
+				"family": "Maldonado",
+				"given": "Pedro E."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					9,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/166277/items/FAJUNDQL",
+		"type": "article-journal",
+		"abstract": "Neuromatch Academy (https://academy.neuromatch.io; (van Viegen et al., 2021)) was designed as an online summer school to cover the basics of computational neuroscience in three weeks. The materials cover dominant and emerging computational neuroscience tools, how they complement one another, and specifically focus on how they can help us to better understand how the brain functions. An original component of the materials is its focus on modeling choices, i.e. how do we choose the right approach, how do we build models, and how can we evaluate models to determine if they provide real (meaningful) insight. This meta-modeling component of the instructional materials asks what questions can be answered by different techniques, and how to apply them meaningfully to get insight about brain function.",
+		"container-title": "Journal of Open Source Education",
+		"DOI": "10.21105/jose.00118",
+		"ISSN": "2577-3569",
+		"issue": "49",
+		"journalAbbreviation": "JOSE",
+		"language": "en",
+		"license": "All rights reserved",
+		"page": "118",
+		"source": "DOI.org (Crossref)",
+		"title": "Neuromatch Academy: a 3-week, online summer school in computational neuroscience",
+		"title-short": "Neuromatch Academy",
+		"URL": "https://jose.theoj.org/papers/10.21105/jose.00118",
+		"volume": "5",
+		"author": [
+			{
+				"family": "’t&amp;nbsp;Hart",
+				"given": "Bernard"
+			},
+			{
+				"family": "Achakulvisut",
+				"given": "Titipat"
+			},
+			{
+				"family": "Adeyemi",
+				"given": "Ayoade"
+			},
+			{
+				"family": "Akrami",
+				"given": "Athena"
+			},
+			{
+				"family": "Alicea",
+				"given": "Bradly"
+			},
+			{
+				"family": "Alonso-Andres",
+				"given": "Alicia"
+			},
+			{
+				"family": "Alzate-Correa",
+				"given": "Diego"
+			},
+			{
+				"family": "Ash",
+				"given": "Arash"
+			},
+			{
+				"family": "Ballesteros",
+				"given": "Jesus"
+			},
+			{
+				"family": "Balwani",
+				"given": "Aishwarya"
+			},
+			{
+				"family": "Batty",
+				"given": "Eleanor"
+			},
+			{
+				"family": "Beierholm",
+				"given": "Ulrik"
+			},
+			{
+				"family": "Benjamin",
+				"given": "Ari"
+			},
+			{
+				"family": "Bhalla",
+				"given": "Upinder"
+			},
+			{
+				"family": "Blohm",
+				"given": "Gunnar"
+			},
+			{
+				"family": "Blohm",
+				"given": "Joachim"
+			},
+			{
+				"family": "Bonnen",
+				"given": "Kathryn"
+			},
+			{
+				"family": "Brigham",
+				"given": "Marco"
+			},
+			{
+				"family": "Brunton",
+				"given": "Bingni"
+			},
+			{
+				"family": "Butler",
+				"given": "John"
+			},
+			{
+				"family": "Caie",
+				"given": "Brandon"
+			},
+			{
+				"family": "Gajic",
+				"given": "N"
+			},
+			{
+				"family": "Chatterjee",
+				"given": "Sharbatanu"
+			},
+			{
+				"family": "Chavlis",
+				"given": "Spyridon"
+			},
+			{
+				"family": "Chen",
+				"given": "Ruidong"
+			},
+			{
+				"family": "Cheng",
+				"given": "You"
+			},
+			{
+				"family": "Chow",
+				"given": "H.m."
+			},
+			{
+				"family": "Chua",
+				"given": "Raymond"
+			},
+			{
+				"family": "Dai",
+				"given": "Yunwei"
+			},
+			{
+				"family": "David",
+				"given": "Isaac"
+			},
+			{
+				"family": "DeWitt",
+				"given": "Eric"
+			},
+			{
+				"family": "Denis",
+				"given": "Julien"
+			},
+			{
+				"family": "Dipani",
+				"given": "Alish"
+			},
+			{
+				"family": "Dorschel",
+				"given": "Arianna"
+			},
+			{
+				"family": "Drugowitsch",
+				"given": "Jan"
+			},
+			{
+				"family": "Dwivedi",
+				"given": "Kshitij"
+			},
+			{
+				"family": "Escola",
+				"given": "Sean"
+			},
+			{
+				"family": "Fan",
+				"given": "Haoxue"
+			},
+			{
+				"family": "Farhoodi",
+				"given": "Roozbeh"
+			},
+			{
+				"family": "Fei",
+				"given": "Yicheng"
+			},
+			{
+				"family": "Fiquet",
+				"given": "Pierre-Étienne"
+			},
+			{
+				"family": "Fontolan",
+				"given": "Lorenzo"
+			},
+			{
+				"family": "Forest",
+				"given": "Jeremy"
+			},
+			{
+				"family": "Fujishima",
+				"given": "Yuki"
+			},
+			{
+				"family": "Galbraith",
+				"given": "Byron"
+			},
+			{
+				"family": "Galdamez",
+				"given": "Mario"
+			},
+			{
+				"family": "Gao",
+				"given": "Richard"
+			},
+			{
+				"family": "Gjorgjieva",
+				"given": "Julijana"
+			},
+			{
+				"family": "Gonzalez",
+				"given": "Alexander"
+			},
+			{
+				"family": "Gu",
+				"given": "Qinglong"
+			},
+			{
+				"family": "Guo",
+				"given": "Yueqi"
+			},
+			{
+				"family": "Guo",
+				"given": "Ziyi"
+			},
+			{
+				"family": "Gupta",
+				"given": "Pankaj"
+			},
+			{
+				"family": "Gurbuz",
+				"given": "Busra"
+			},
+			{
+				"family": "Haimerl",
+				"given": "Caroline"
+			},
+			{
+				"family": "Harrod",
+				"given": "Jordan"
+			},
+			{
+				"family": "Hyafil",
+				"given": "Alexandre"
+			},
+			{
+				"family": "Irani",
+				"given": "Martin"
+			},
+			{
+				"family": "Jacobson",
+				"given": "Daniel"
+			},
+			{
+				"family": "Johnson",
+				"given": "Michelle"
+			},
+			{
+				"family": "Jones",
+				"given": "Ilenna"
+			},
+			{
+				"family": "Karni",
+				"given": "Gili"
+			},
+			{
+				"family": "Kass",
+				"given": "Robert"
+			},
+			{
+				"family": "Kim",
+				"given": "Hyosub"
+			},
+			{
+				"family": "Kist",
+				"given": "Andreas"
+			},
+			{
+				"family": "Koene",
+				"given": "Randal"
+			},
+			{
+				"family": "Kording",
+				"given": "Konrad"
+			},
+			{
+				"family": "Krause",
+				"given": "Matthew"
+			},
+			{
+				"family": "Kumar",
+				"given": "Arvind"
+			},
+			{
+				"family": "Kühn",
+				"given": "Norma"
+			},
+			{
+				"family": "Lc",
+				"given": "Ray"
+			},
+			{
+				"family": "Laporte",
+				"given": "Matthew"
+			},
+			{
+				"family": "Lee",
+				"given": "Junseok"
+			},
+			{
+				"family": "Li",
+				"given": "Songting"
+			},
+			{
+				"family": "Lin",
+				"given": "Sikun"
+			},
+			{
+				"family": "Lin",
+				"given": "Yang"
+			},
+			{
+				"family": "Liu",
+				"given": "Shuze"
+			},
+			{
+				"family": "Liu",
+				"given": "Tony"
+			},
+			{
+				"family": "Livezey",
+				"given": "Jesse"
+			},
+			{
+				"family": "Lu",
+				"given": "Linlin"
+			},
+			{
+				"family": "Macke",
+				"given": "Jakob"
+			},
+			{
+				"family": "Mahaffy",
+				"given": "Kelly"
+			},
+			{
+				"family": "Martins",
+				"given": "A"
+			},
+			{
+				"family": "Martorell",
+				"given": "Nicolás"
+			},
+			{
+				"family": "Martínez",
+				"given": "Manolo"
+			},
+			{
+				"family": "Mattar",
+				"given": "Marcelo"
+			},
+			{
+				"family": "Menendez",
+				"given": "Jorge"
+			},
+			{
+				"family": "Miller",
+				"given": "Kenneth"
+			},
+			{
+				"family": "Mineault",
+				"given": "Patrick"
+			},
+			{
+				"family": "Mohammadi",
+				"given": "Nosratullah"
+			},
+			{
+				"family": "Mohsenzadeh",
+				"given": "Yalda"
+			},
+			{
+				"family": "Morgenroth",
+				"given": "Elenor"
+			},
+			{
+				"family": "Morshedzadeh",
+				"given": "Taha"
+			},
+			{
+				"family": "Mosberger",
+				"given": "Alice"
+			},
+			{
+				"family": "Muliya",
+				"given": "Madhuvanthi"
+			},
+			{
+				"family": "Mur",
+				"given": "Marieke"
+			},
+			{
+				"family": "Murray",
+				"given": "John"
+			},
+			{
+				"family": "Nd",
+				"given": "Yashas"
+			},
+			{
+				"family": "Naud",
+				"given": "Richard"
+			},
+			{
+				"family": "Nayak",
+				"given": "Prakriti"
+			},
+			{
+				"family": "Oak",
+				"given": "Anushka"
+			},
+			{
+				"family": "Castillo",
+				"given": "Itzel"
+			},
+			{
+				"family": "Orouji",
+				"given": "Seyedmehdi"
+			},
+			{
+				"family": "Otero-Millan",
+				"given": "Jorge"
+			},
+			{
+				"family": "Pachitariu",
+				"given": "Marius"
+			},
+			{
+				"family": "Pandey",
+				"given": "Biraj"
+			},
+			{
+				"family": "Paredes",
+				"given": "Renato"
+			},
+			{
+				"family": "Parent",
+				"given": "Jesse"
+			},
+			{
+				"family": "Park",
+				"given": "Il"
+			},
+			{
+				"family": "Peters",
+				"given": "Megan"
+			},
+			{
+				"family": "Pitkow",
+				"given": "Xaq"
+			},
+			{
+				"family": "Poirazi",
+				"given": "Panayiota"
+			},
+			{
+				"family": "Popal",
+				"given": "Haroon"
+			},
+			{
+				"family": "Prabhakaran",
+				"given": "Sandhya"
+			},
+			{
+				"family": "Qiu",
+				"given": "Tian"
+			},
+			{
+				"family": "Ragunathan",
+				"given": "Srinidhi"
+			},
+			{
+				"family": "Rodriguez-Cruces",
+				"given": "Raul"
+			},
+			{
+				"family": "Rolnick",
+				"given": "David"
+			},
+			{
+				"family": "Sahoo",
+				"given": "Ashish"
+			},
+			{
+				"family": "Salehinajafabadi",
+				"given": "Saeed"
+			},
+			{
+				"family": "Savin",
+				"given": "Cristina"
+			},
+			{
+				"family": "Saxena",
+				"given": "Shreya"
+			},
+			{
+				"family": "Schrater",
+				"given": "Paul"
+			},
+			{
+				"family": "Schroeder",
+				"given": "Karen"
+			},
+			{
+				"family": "Schwarze",
+				"given": "Alice"
+			},
+			{
+				"family": "Sedigh-Sarvestani",
+				"given": "Madineh"
+			},
+			{
+				"family": "Sekhar",
+				"given": "K"
+			},
+			{
+				"family": "Shadmehr",
+				"given": "Reza"
+			},
+			{
+				"family": "Shanechi",
+				"given": "Maryam"
+			},
+			{
+				"family": "Sharma",
+				"given": "Siddhant"
+			},
+			{
+				"family": "Shea-Brown",
+				"given": "Eric"
+			},
+			{
+				"family": "Shenoy",
+				"given": "Krishna"
+			},
+			{
+				"family": "Shimabukuro",
+				"given": "Carolina"
+			},
+			{
+				"family": "Shuvaev",
+				"given": "Sergey"
+			},
+			{
+				"family": "Sin",
+				"given": "Man"
+			},
+			{
+				"family": "Smith",
+				"given": "Maurice"
+			},
+			{
+				"family": "Steinmetz",
+				"given": "Nicholas"
+			},
+			{
+				"family": "Stosio",
+				"given": "Karolina"
+			},
+			{
+				"family": "Straley",
+				"given": "Elizabeth"
+			},
+			{
+				"family": "Strandquist",
+				"given": "Gabrielle"
+			},
+			{
+				"family": "Stringer",
+				"given": "Carsen"
+			},
+			{
+				"family": "Tomar",
+				"given": "Rimjhim"
+			},
+			{
+				"family": "Tran",
+				"given": "Ngoc"
+			},
+			{
+				"family": "Triantafillou",
+				"given": "Sofia"
+			},
+			{
+				"family": "Udeigwe",
+				"given": "Lawrence"
+			},
+			{
+				"family": "Valeriani",
+				"given": "Davide"
+			},
+			{
+				"family": "Valton",
+				"given": "Vincent"
+			},
+			{
+				"family": "Vaziri-Pashkam",
+				"given": "Maryam"
+			},
+			{
+				"family": "Vincent",
+				"given": "Peter"
+			},
+			{
+				"family": "Vishne",
+				"given": "Gal"
+			},
+			{
+				"family": "Wallisch",
+				"given": "Pascal"
+			},
+			{
+				"family": "Wang",
+				"given": "Peiyuan"
+			},
+			{
+				"family": "Ward",
+				"given": "Claire"
+			},
+			{
+				"family": "Waskom",
+				"given": "Michael"
+			},
+			{
+				"family": "Wei",
+				"given": "Kunlin"
+			},
+			{
+				"family": "Wu",
+				"given": "Anqi"
+			},
+			{
+				"family": "Wu",
+				"given": "Zhengwei"
+			},
+			{
+				"family": "Wyble",
+				"given": "Brad"
+			},
+			{
+				"family": "Zhang",
+				"given": "Lei"
+			},
+			{
+				"family": "Zysman",
+				"given": "Daniel"
+			},
+			{
+				"family": "Uquillas",
+				"given": "Federico"
+			},
+			{
+				"family": "Van Viegen",
+				"given": "Tara"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					9,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					3,
+					31
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/166277/items/JMQPIKVC",
+		"type": "article",
+		"abstract": "The frontopolar cortex (FPC), the most anterior part of the lateral prefrontal cortex corresponding to Brodmann’s area 10, is involved in human high-order cognition, including reasoning, problem-solving and multitasking. Its specific contribution to prefrontal executive function, however, remains unclear. A neurocomputational model suggests that the FPC implements a basic process referred to as cognitive branching that maintains a task in a pending state during the execution of another, and enables to revert back to it upon completion of the ongoing one. However, the FPC is engaged in other cognitive functions including prospective memory, relational reasoning, episodic memory retrieval and attentional set-shifting, which are not directly linked to the notion of cognitive branching. Here we used a neurocomputional branching model to simulate the involvement of the FPC in these various cognitive functions. Simulation results indicate that the model accounts for the variety of FPC activations observed in these various experimental paradigms. Thus, the present study provides theoretical evidence suggesting that all these behavioral paradigms implicitly involve branching processes, and supports the idea that cognitive branching is the core function of the human frontopolar cortex.",
+		"DOI": "10.1101/037150",
+		"language": "en",
+		"license": "All rights reserved",
+		"note": "page: 037150\nsection: New Results",
+		"publisher": "bioRxiv",
+		"source": "bioRxiv",
+		"title": "A neurocomputational model of human frontopolar cortex function",
+		"URL": "https://www.biorxiv.org/content/10.1101/037150v1",
+		"author": [
+			{
+				"family": "Hyafil",
+				"given": "Alexandre"
+			},
+			{
+				"family": "Koechlin",
+				"given": "Etienne"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					9,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					1,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/166277/items/JPCEH2CZ",
+		"type": "article",
+		"abstract": "Regression models are popular tools in empirical sciences to infer the influence of a set of variables onto a dependent variable given an experimental dataset. In neuroscience and cognitive psychology, Generalized Linear Models (GLMs) -including linear regression, logistic regression, and Poisson GLM- is the regression model of choice to study the factors that drive participant's choices, reaction times and neural activations. These methods are however limited as they only capture linear contributions of each regressors. Here, we introduce an extension of GLMs called Generalized Unrestricted Models (GUMs), which allows to infer a much richer set of contributions of the regressors to the dependent variable, including possible interactions between the regressors. In a GUM, each regressor is passed through a linear or nonlinear function, and the contribution of the different resulting transformed regressors can be summed or multiplied to generate a predictor for the dependent variable. We propose a Bayesian treatment of these models in which we endow functions with Gaussian Process priors, and we present two methods to compute a posterior over the functions given a dataset: the Laplace method and a sparse variational approach, which scales better for large dataset. For each method, we assess the quality of the model estimation and we detail how the hyperparameters (defining for example the expected smoothness of the function) can be fitted. Finally, we illustrate the power of the method on a behavioral dataset where subjects reported the average perceived orientation of a series of gratings. The method allows to recover the mapping of the grating angle onto perceptual evidence for each subject, as well as the impact of the grating based on its position. Overall, GUMs provides a very rich and flexible framework to run nonlinear regression analysis in neuroscience, psychology, and beyond.",
+		"DOI": "10.48550/arXiv.2002.00920",
+		"license": "All rights reserved",
+		"note": "arXiv:2002.00920 [stat.AP]",
+		"number": "arXiv:2002.00920",
+		"publisher": "arXiv",
+		"source": "arXiv.org",
+		"title": "Non-linear regression models for behavioral and neural data analysis",
+		"URL": "http://arxiv.org/abs/2002.00920",
+		"author": [
+			{
+				"family": "Adam",
+				"given": "Vincent"
+			},
+			{
+				"family": "Hyafil",
+				"given": "Alexandre"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					9,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					2,
+					3
+				]
+			]
+		}
+	}
+]

@@ -268,6 +268,54 @@ main { padding: 56px 0 90px 0; }
 .person-links a:hover { color: var(--accent); }
 .person-links svg { width: 18px; height: 18px; display: block; }
 
+/* ---------- Publications page ---------- */
+
+.pub-year-block {
+  margin-top: 34px;
+}
+.pub-year-block:first-child {
+  margin-top: 30px;
+}
+
+.pub-year-block h2 {
+  margin-top: 0;
+  margin-bottom: 4px;
+  color: var(--ink-faint);
+  font-size: 1.05rem;
+}
+
+.pub-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.pub-item {
+  padding: 16px 0;
+  border-top: 1px solid var(--line);
+}
+.pub-list .pub-item:last-child { border-bottom: 1px solid var(--line); }
+
+.pub-title {
+  font-family: var(--font-serif);
+  font-weight: 600;
+  margin: 0 0 4px 0;
+}
+
+.pub-meta {
+  color: var(--ink-soft);
+  font-size: 0.92rem;
+  margin: 0;
+}
+
+.pub-links {
+  margin: 6px 0 0 0;
+  font-size: 0.85rem;
+}
+.pub-links a {
+  letter-spacing: 0.02em;
+}
+
 /* ---------- Footer ---------- */
 
 .site-footer {
