@@ -58,6 +58,32 @@ h2 { font-size: 1.4rem; margin-top: 2.2em; }
 
 p { margin: 0 0 1.1em 0; }
 
+/* Keep any inline image from ever exceeding its container's width,
+   on any screen size. Add this once, applies everywhere. */
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 6px;
+  margin: 24px 0;
+}
+
+/* Optional: wrap an <img> in <figure> to add a small caption below it.
+   <figure>
+     <img src="assets/research/fig1.png" alt="...">
+     <figcaption>A short caption describing the figure.</figcaption>
+   </figure> */
+figure {
+  margin: 24px 0;
+}
+figure img {
+  margin: 0 0 8px 0;
+}
+figcaption {
+  color: var(--ink-faint);
+  font-size: 0.85rem;
+}
+
 .container {
   max-width: var(--content-width);
   margin: 0 auto;
