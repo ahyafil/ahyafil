@@ -21,7 +21,7 @@ const TEAM = [
   },
   {
     name: "Lucía Arancibia",
-    role: "PhD Student",
+    role: "PhD Student (co-supervisor: Klaus Wimmer)",
     photo: "",
     bio: "",
 links: {
@@ -33,8 +33,8 @@ links: {
  },
   {
     name: "Alexandre García-Duran",
-    role: "PhD Student",
-        bio: "I want to understand how neural systems perceive, and how their structure makes that perception robust or fragile. I study these questions in both brains and artificial networks, using probabilistic inference and machine learning. I am a PhD student at the Centre de Recerca Matemàtica (CRM) and Universitat Politècnica de Catalunya (UPC) in Barcelona, supervised by Alexandre Hyafil (CRM) and Manuel Molano-Mazón (UPC).",
+    role: "PhD Student (co-supervisor: Manuel Molano-Mazón)",
+        bio: "I want to understand how neural systems perceive, and how their structure makes that perception robust or fragile. I study these questions in both brains and artificial networks, using probabilistic inference and machine learning.",
 photo: "assets/people/babyalex.jpg",
     links: {
       website: "https://alexgarciaduran.github.io/",
