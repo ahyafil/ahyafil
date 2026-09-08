@@ -176,30 +176,37 @@ main { padding: 56px 0 90px 0; }
 /* ---------- People / Team page ---------- */
 
 .people-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
-  gap: 34px 28px;
-  margin-top: 36px;
+  display: flex;
+  flex-direction: column;
+  margin-top: 30px;
 }
 
 .person-card {
   display: flex;
-  flex-direction: column;
+  gap: 22px;
+  padding: 26px 0;
+  border-top: 1px solid var(--line);
 }
+.people-grid .person-card:last-child { border-bottom: 1px solid var(--line); }
 
 .person-photo {
-  width: 100%;
-  aspect-ratio: 1 / 1;
+  flex: 0 0 auto;
+  width: 88px;
+  height: 88px;
   border-radius: 6px;
   background: var(--accent-soft);
   object-fit: cover;
-  margin-bottom: 14px;
   color: var(--ink-faint);
   display: flex;
   align-items: center;
   justify-content: center;
   font-family: var(--font-serif);
-  font-size: 1.6rem;
+  font-size: 1.3rem;
+}
+
+.person-details {
+  flex: 1 1 auto;
+  min-width: 0;
 }
 
 .person-name {
@@ -213,6 +220,12 @@ main { padding: 56px 0 90px 0; }
   color: var(--ink-faint);
   font-size: 0.92rem;
   margin: 0 0 10px 0;
+}
+
+.person-bio {
+  color: var(--ink-soft);
+  font-size: 0.92rem;
+  margin: 0 0 14px 0;
 }
 
 .person-links {

@@ -187,27 +187,28 @@ function renderPersonLinks(links) {
 function renderPeopleGrid(gridId, people) {
   const grid = document.getElementById(gridId);
   if (!grid) return;
- 
+
   grid.innerHTML = people.map((person) => {
     const photoEl = person.photo
       ? `<img class="person-photo" src="${person.photo}" alt="${person.name}">`
       : `<div class="person-photo" aria-hidden="true">${initials(person.name)}</div>`;
- 
+
     const bioEl = person.bio ? `<p class="person-bio">${person.bio}</p>` : "";
- 
+
     return `
       <div class="person-card">
         ${photoEl}
-        <p class="person-name">${person.name}</p>
-        <p class="person-role">${person.role}</p>
-        ${bioEl}
-        <div class="person-links">
-          ${renderPersonLinks(person.links)}
+        <div class="person-details">
+          <p class="person-name">${person.name}</p>
+          <p class="person-role">${person.role}</p>
+          ${bioEl}
+          <div class="person-links">
+            ${renderPersonLinks(person.links)}
+          </div>
         </div>
       </div>`;
   }).join("");
 }
-
 
 function renderTeam() {
   renderPeopleGrid("people-grid", TEAM);
