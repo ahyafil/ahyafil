@@ -35,7 +35,7 @@ links: {
     name: "Alexandre García-Duran",
     role: "PhD Student",
         bio: "I want to understand how neural systems perceive, and how their structure makes that perception robust or fragile. I study these questions in both brains and artificial networks, using probabilistic inference and machine learning. I am a PhD student at the Centre de Recerca Matemàtica (CRM) and Universitat Politècnica de Catalunya (UPC) in Barcelona, supervised by Alexandre Hyafil (CRM) and Manuel Molano-Mazón (UPC).",
-photo: "assets/people/alexh.jpg",
+photo: "assets/people/babyalex.jpg",
     links: {
       website: "https://alexgarciaduran.github.io/",
       github: "https://github.com/alexgarciaduran",
@@ -187,23 +187,27 @@ function renderPersonLinks(links) {
 function renderPeopleGrid(gridId, people) {
   const grid = document.getElementById(gridId);
   if (!grid) return;
-
+ 
   grid.innerHTML = people.map((person) => {
     const photoEl = person.photo
       ? `<img class="person-photo" src="${person.photo}" alt="${person.name}">`
       : `<div class="person-photo" aria-hidden="true">${initials(person.name)}</div>`;
-
+ 
+    const bioEl = person.bio ? `<p class="person-bio">${person.bio}</p>` : "";
+ 
     return `
       <div class="person-card">
         ${photoEl}
         <p class="person-name">${person.name}</p>
         <p class="person-role">${person.role}</p>
+        ${bioEl}
         <div class="person-links">
           ${renderPersonLinks(person.links)}
         </div>
       </div>`;
   }).join("");
 }
+
 
 function renderTeam() {
   renderPeopleGrid("people-grid", TEAM);
