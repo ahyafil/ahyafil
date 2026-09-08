@@ -22,8 +22,8 @@ const TEAM = [
   {
     name: "Lucía Arancibia",
     role: "PhD Student (co-supervisor: Klaus Wimmer)",
-    photo: "",
-    bio: "",
+    photo: "assets/people/lucia.jpg",
+    bio: "Lucía studied Biomedical Engineering at the UPM in Madrid, where she became interested in the interface between neuroscience and engineering. She then studied a Master of Science in Neurotechnology at Imperial College London and carried out her master’s thesis at Clopath’s Lab. In 2021 she joined the Perea lab at the Cajal Institute (CSIC) as a research assistant, where she worked on in vivo electrophysiology. Since 09/2022, she is a PhD student at the Computational Neuroscience Unit at the CRM working on spatiotemporal stimulus integration in perceptual decision making.",
 links: {
       website: "",
       github: "https://github.com/luciadearancibia",
