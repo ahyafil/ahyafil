@@ -66,7 +66,7 @@ photo: "assets/people/alexh.jpg",
       bluesky: "",
       scholar: ""
     }
- }
+ },
  {
      name: "Lucía Sánchez-",
      role: "master Student",
@@ -78,7 +78,7 @@ photo: "assets/people/alexh.jpg",
        bluesky: "",
        scholar: ""
      }
-  },
+  }
 ];
 
 /* Former lab members. Same shape as TEAM.
