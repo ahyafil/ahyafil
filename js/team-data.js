@@ -34,7 +34,7 @@ links: {
   {
     name: "Alexandre García-Duran",
     role: "PhD Student (co-supervisor: Manuel Molano-Mazón)",
-        bio: "I want to understand how neural systems perceive, and how their structure makes that perception robust or fragile. I study these questions in both brains and artificial networks, using probabilistic inference and machine learning.",
+        bio: "Alex wants to understand how neural systems perceive, and how their structure makes that perception robust or fragile. He studies these questions in both brains and artificial networks, using probabilistic inference and machine learning.",
 photo: "assets/people/babyalex.jpg",
     links: {
       website: "https://alexgarciaduran.github.io/",
