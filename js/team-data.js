@@ -115,8 +115,8 @@ const ALUMNI = [
       email: "",
       website: "https://futur.upc.edu/ManuelMolanoMazon",
       github: "",
-      bluesky: "",
-      scholar: ""
+      bluesky: "https://bsky.app/profile/molanomazon.bsky.social",
+      scholar: "https://scholar.google.com/citations?user=hfA8aYIAAAAJ&hl"
     }
   },
   {
@@ -142,7 +142,7 @@ const ALUMNI = [
        website: "https://sites.google.com/view/martijnwokke/home",
        github: "",
        bluesky: "",
-       scholar: ""
+       scholar: "https://scholar.google.com/citations?user=NUfost0AAAAJ"
      }
    },
    {
