@@ -203,13 +203,16 @@ function initials(name) {
 
 function renderPersonLinks(links) {
   return Object.entries(links)
-    .filter(([, url]) => url)
-    .map(
-      ([key, url]) => `
-        <a href="${url}" target="_blank" rel="noopener noreferrer" aria-label="${ICON_LABELS[key]}">
+    .filter(([, value]) => value)
+    .map(([key, value]) => {
+      const isEmail = key === "email";
+      const href = isEmail ? `mailto:${value}` : value;
+      const targetAttrs = isEmail ? "" : ` target="_blank" rel="noopener noreferrer"`;
+      return `
+        <a href="${href}"${targetAttrs} aria-label="${ICON_LABELS[key]}">
           ${ICONS[key]}
-        </a>`
-    )
+        </a>`;
+    })
     .join("");
 }
 
