@@ -65,8 +65,8 @@ photo: "assets/people/babyalex.jpg",
 {
     name: "Anamaria Isaia",
     role: "master Student",
-    photo: "",
-    bio: "",
+    photo: "assets/people/ana.jpg",
+    bio: "Anamaria holds a BSc in Psychology from the University of York and an MSc in Brain and Cognition from Universitat Pompeu Fabra. For her Master’s thesis she investigated the role of midfrontal theta-band oscillations as a marker of evidence accumulation in perceptual decision-making under the supervision of Alexandre Hyafil. She is now joining his lab as a research assistant, where she will continue to build upon this project.",
 	links: {
       email: "",
       website: "",
